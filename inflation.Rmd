@@ -63,12 +63,6 @@ with(mtcars, plot(hp, mpg))
 
 ```
 
-```{python}
-
-print("Hello World! Python here, do you miss R already?")
-
-```
-
 
 ```{r}
 usethis::use_git_config(
